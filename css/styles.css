@@ -3,3 +3,18 @@
 /* Note: an asteroid image is included in this repo.
 Feel free to use it if you like. */
 
+.asteroid {
+  background-image: url(./img/asteroid.png);
+}
+
+/*.asteroid {
+  background-image: url(./img/asteroid.png);
+}*/
+
+.earth {
+  background-image: url(./img/p-earth.png);
+}
+
+.jupiter {
+  background-image: url(./img/p-jupiter.png);
+}
