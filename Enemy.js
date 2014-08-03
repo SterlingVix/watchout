@@ -4,7 +4,7 @@ var Enemy = function() {
   this.cx = Math.floor(Math.random() * 90) + 5; // random x position in viewbox
   this.cy = Math.floor(Math.random() * 90) + 5; // random y position in viewbox
   this.stroke = 'black';
-  this.radius = '1';
+  this.radius = 1;
   // this.speed = 1000;
 }; // end Enemy class
 
